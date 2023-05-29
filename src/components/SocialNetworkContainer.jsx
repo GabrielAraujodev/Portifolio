@@ -4,7 +4,7 @@ import "../styles/components/socialnetworkcontainer.sass";
 
 const socialNetworks = [
     { name: "linkedin", icon: <FaLinkedinIn />,Text_link:"https://www.linkedin.com/in/gabriel-augusto-alves-de-araujo-98b89b23a/"},
-    { name: "github", icon: <FaGithub />,Text_link:"https://github.com/canore000 "},
+    { name: "github", icon: <FaGithub />,Text_link:"https://github.com/GabrielAraujodev "},
     { name: "instagram", icon: <FaInstagram />,Text_link:"https://www.instagram.com/gabrielalves_16/"},
   ];
 
