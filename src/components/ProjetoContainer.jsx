@@ -6,7 +6,7 @@ const ProjetoContainer =() =>{
         <p>
             Nesse link  abaixo você vai se levado para o meu repositorio com os meus projetos.
         </p>
-        <a href="https://github.com/canore000" className="btn">
+        <a href="https://github.com/GabrielAraujodev " className="btn">
             Ver projetos
         </a>
 
